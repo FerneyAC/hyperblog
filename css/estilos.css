@@ -41,11 +41,8 @@ body {
     padding: 1em;
 }
 #footer{
-    background: #37488b;
+    background: #777;
     color: white;
     text-align: center;
     padding: 0.5em;
-}
-#post #prinsipal{
-    text-align: center;
 }
